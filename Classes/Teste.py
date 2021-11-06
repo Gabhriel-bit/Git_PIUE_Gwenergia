@@ -4,6 +4,7 @@ import pandas as pd
 from Utils import file_utils as util
 
 listaHTMLs = []
+nomes_HTMLs = []
 listaUF = (["31", "ACRE", "AC"],
            ["20", "ALAGOAS", "AL"],
            ["30", "AMAZONAS", "AM"],
@@ -48,6 +49,19 @@ def __set_HTMLs__(self, htmls, forcInsert = False):
             return False, "Há elementos na lista => " + str(listaHTMLs)
 
 
+def __set_nome_HTML__(self, nome):
+    listaHTMLs += [ nome ]
+
+
+def __set_nomes_HTMLs__(self, nomes, forcInsert = False):
+    if forcInsert:
+        nomes_HTMLs = nomes
+        return True
+    else:
+        if len(nomes_HTMLs) > 0:
+            return False, "Há elementos na lista => " + str(nomes_HTMLs)
+
+
 def __get__html(self, index=-1):
     if index == -1:
         return listaHTMLs
@@ -89,7 +103,11 @@ def formatar_row(string, char_sep = '  '):
     listaR = []
     for item in lista:
         if item != '' and item != "NaN":
-            listaR += [ str(item).replace(" ", '') ]
+            if item in ['0.0', '0.00', '0.000', '0.0000'] or \
+               item in ['0,0', '0,00', '0,000', '0,0000']:
+                listaR += ['0']
+            else:
+                listaR += [ str(item).replace(" ", '') ]
     if listaR[0] == "NaN":
         listaR.__delitem__(0)
     return listaR
@@ -98,7 +116,9 @@ def formatar_row(string, char_sep = '  '):
 def cria_CSV_mult_tabelas(html_tables,nomes_planilhas):
     # cria o novo aruuivo para inserção dos dados formatados
     data_bu = datetime.datetime.now().strftime('%m_%Y')
-    arquivo = open(f"Ceasas-{data_bu}.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
+    #arquivo = open(f"D:\\Drives compartilhados\\Base de dados GW ENERGIA\\"
+    #               f"Script_DL_Ceasas\\{data_bu}-Ceasas.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
+    arquivo = open(f"{data_bu}-Ceasas.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
     tabela = csv.writer(arquivo, dialect="excel-tab")
 
     # cria o cabeçalho da tabela
@@ -114,7 +134,7 @@ def cria_CSV_mult_tabelas(html_tables,nomes_planilhas):
     uf = ""
     index = 0
     for tables in html_tables:
-        nomes_cidades = [formatar_nome_cidade(html_tables), 0]
+        nomes_cidades = [formatar_nome_cidade(tables), 0]
         uf = set_uf(nomes_planilhas[index])
         index += 1
         for table in tables:
@@ -142,7 +162,9 @@ def cria_CSV_mult_tabelas(html_tables,nomes_planilhas):
 def cria_CSV(html_table,nomes_planilhas):
     # cria o novo aruuivo para inserção dos dados formatados
     data_bu = datetime.datetime.now().strftime('%m_%Y')
-    arquivo = open(f"Ceasas-{data_bu}.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
+    #arquivo = open(f"D:\\Drives compartilhados\\Base de dados GW ENERGIA\\"
+    #               f"Script_DL_Ceasas\\{data_bu}-Ceasas.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
+    arquivo = open(f"{data_bu}-Ceasas.csv", "w", newline="", encoding="ISO-8859-1", errors='strict')
     tabela = csv.writer(arquivo, dialect="excel-tab")
 
     # cria o cabeçalho da tabela
@@ -180,13 +202,22 @@ def cria_CSV(html_table,nomes_planilhas):
     return [ "RESIDUOS => " ] + residuos
 
 
+def execurta_format():
+    if len(listaHTMLs) == 0:
+        return "ERRO", "Não há lista para formatar"
+    elif len(listaHTMLs) == 1 and len(nomes_HTMLs) == 1:
+        return "SUCESSO", cria_CSV(listaHTMLs[0], nomes_HTMLs[0])
+    elif (len(listaHTMLs) == len(nomes_HTMLs)) and len(listaHTMLs) > 1 and len(nomes_HTMLs) > 1:
+        return "SUCESSO", cria_CSV(listaHTMLs, nomes_HTMLs)
+    else:
+        return "ERRO", f"Número de HTMLs({len(listaHTMLs)}) | Número de nome HTML({nomes_HTMLs})"
+
 AC_nome = "ACRE-18_10_2021.xls"
 htmlAC = pd.read_html(AC_nome, match='UNIDADE')
 SP_nome = 'SÃO PAULO-18_10_2021.xls'
 htmlSP = pd.read_html(SP_nome, match='UNIDADE')
-cria_CSV(htmlSP, SP_nome)
-#cria_CSV_mult_tabelas([htmlAC, htmlSP], [AC_nome, SP_nome])
-
+#print((cria_CSV(htmlSP, SP_nome))
+print(cria_CSV_mult_tabelas([htmlAC, htmlSP], [AC_nome, SP_nome]))
 
 #h = type(htmlSP).__new__(type(htmlSP))
 #h = htmlSP.copy()

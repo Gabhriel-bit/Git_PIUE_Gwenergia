@@ -46,7 +46,7 @@ def download(time_pop_up):
     options = webdriver.ChromeOptions()
     caminho = 'C:\Git_PIUE_Gwenergia\Relatórios'
     prefs = { "download.default_directory": caminho}
-    options.add_argument("--headless") #As janelas ficam invisiveis
+    #options.add_argument("--headless") #As janelas ficam invisiveis
     options.add_experimental_option("prefs", prefs)
     driver = webdriver.Chrome('C:\Program Files\Google\Chrome\Application\chrome.exe', options=options)
     data_bu = datetime.datetime.now().strftime('%d_%m_%Y')
@@ -61,7 +61,7 @@ def download(time_pop_up):
             main_window = driver.window_handles
 
             driver.get('http://www3.ceasa.gov.br/siscomweb/?page=reports.consulta_relatorio_uf_unidade')
-            select = Select(driver.find_element_by_id(id='ctl0_corpoConsulta_cmbbxUF'))
+            select = Select(driver.find_element(id='ctl0_corpoConsulta_cmbbxUF'))
             select.select_by_visible_text(uf[1])
             select.select_by_value(uf[0])
 
@@ -69,7 +69,7 @@ def download(time_pop_up):
             main_window = driver.window_handles[0]
             time.sleep(time_pop_up)
             driver.switch_to.window(driver.window_handles[1])
-            driver.find_element_by_id('ctl0_corpo_btnImprimeXLS').click()
+            driver.find_element('ctl0_corpo_btnImprimeXLS').click()
             time.sleep(5)
 
             nome_atual = "Relatorio de Preços" + data_bu
