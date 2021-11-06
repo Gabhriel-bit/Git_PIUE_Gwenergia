@@ -1,0 +1,720 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Conab - Companhia Nacional de Abastecimento</title>
+</head>
+<body><table width="100%" id="Header" cellpadding="1" cellspacing="2" rules="all" border="1" style="width:100%; text-align:center; color:#FFFFFF; border:0px solid #000000; font-family:Verdana; font-size:9pt; border-collapse:collapse;" >
+    <tbody>
+    <tr>
+        <td align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+            <span>
+            <table width="100%" border="0px" style="text-align : center; font-size:9px;">
+                <tr>
+                    <td width="15%" rowspan="3">
+                        <div align="center">
+                            <img src="http://www3.ceasa.gov.br/siscomweb//common/images/Conab.jpg" alt="" style="border-width:0px;" />
+                        </div>
+                    </td>
+                    <td width="75%" align="center">
+                        <span><strong><span style="font-size:12px;">COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB</span></strong></span>
+                    </td>
+                    <td width="10%" rowspan="3">
+                        <span><strong>18/10/2021<br>15:28:40</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <span><strong>DIRAB - Diretoria de Operações e Abastecimento</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <span><strong>SUPAB - Superintendência de Abastecimento Social <br />GEHOR - Gerência de Modernização do Mercado de Hortigranjeiros</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <div align="center">
+                            <span><strong><br>Relatório de Comercialização Mensal nos Entrepostos Brasileiros <br><br><br>Data de emissão do Relatório: 18/10/2021</strong></span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            </span>
+        </td>
+    </tr>
+    </tbody>
+</table>	<table	id="tblBody" width="100%" cellpadding="2" cellspacing="2" rules="all" style="width:100%; font-size:9px; border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:#000000; border-left-style:solid; border-left-width:1px; border-right-color:#000000;border-right-style:solid; border-right-width:1px; border-top-color:#000000; border-top-style:solid;border-top-width:1px;" border="1" >
+	<thead>
+		<tr align="center" style="background-color:#FFFFFF; font-size:10px;">
+		<th>UNIDADE</th>
+<th>CIDADE</th>
+<th>UF</th>
+<th>Mês/Ano</th>
+<th>Qtde Cereais (kg)</th>
+<th>Valor Cereais (R$)</th>
+<th>Qtde Hortigranjeiros (kg)</th>
+<th>Valor Hortigranjeiros (R$)</th>
+<th>Qtde Produtos Diversos (kg)</th>
+<th>Valor Produtos Diversos (R$)</th>
+<th>Soma (kg)</th>
+<th>Soma (R$)</th>
+
+		</tr>
+	</thead><tbody><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'>CEASA-PA - Belem</td>
+<td  align='left'>BELEM</td>
+<td nowrap align='left'>PA</td>
+<td nowrap align='left'>01/2008</td>
+<td nowrap align='right'>3.000</td>
+<td nowrap align='right'>960, 00</td>
+<td nowrap align='right'>21.340.081</td>
+<td nowrap align='right'>23.861.704, 37</td>
+<td nowrap align='right'>488.995</td>
+<td nowrap align='right'>81.619, 92</td>
+<td nowrap align='right'>21.832.076</td>
+<td nowrap align='right'>23.944.284, 29</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>02/2008</td>
+<td nowrap align='right'>14.000</td>
+<td nowrap align='right'>46.300, 00</td>
+<td nowrap align='right'>21.085.638</td>
+<td nowrap align='right'>24.957.187, 81</td>
+<td nowrap align='right'>398.267</td>
+<td nowrap align='right'>702.257, 98</td>
+<td nowrap align='right'>21.497.905</td>
+<td nowrap align='right'>25.705.745, 79</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>03/2008</td>
+<td nowrap align='right'>18.000</td>
+<td nowrap align='right'>50.400, 00</td>
+<td nowrap align='right'>23.160.290</td>
+<td nowrap align='right'>28.212.487, 83</td>
+<td nowrap align='right'>573.873</td>
+<td nowrap align='right'>1.033.657, 61</td>
+<td nowrap align='right'>23.752.163</td>
+<td nowrap align='right'>29.296.545, 44</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>04/2008</td>
+<td nowrap align='right'>13.300</td>
+<td nowrap align='right'>28.292, 73</td>
+<td nowrap align='right'>20.838.906</td>
+<td nowrap align='right'>27.798.165, 58</td>
+<td nowrap align='right'>350.810</td>
+<td nowrap align='right'>1.218.167, 80</td>
+<td nowrap align='right'>21.203.016</td>
+<td nowrap align='right'>29.044.626, 11</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>05/2008</td>
+<td nowrap align='right'>10.400</td>
+<td nowrap align='right'>21.345, 46</td>
+<td nowrap align='right'>23.861.158</td>
+<td nowrap align='right'>31.508.761, 25</td>
+<td nowrap align='right'>1.605.541</td>
+<td nowrap align='right'>1.921.809, 76</td>
+<td nowrap align='right'>25.477.099</td>
+<td nowrap align='right'>33.451.916, 47</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>06/2008</td>
+<td nowrap align='right'>150</td>
+<td nowrap align='right'>375, 00</td>
+<td nowrap align='right'>23.290.913</td>
+<td nowrap align='right'>31.388.695, 27</td>
+<td nowrap align='right'>674.325</td>
+<td nowrap align='right'>1.222.662, 55</td>
+<td nowrap align='right'>23.965.388</td>
+<td nowrap align='right'>32.611.732, 82</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>07/2008</td>
+<td nowrap align='right'>10.300</td>
+<td nowrap align='right'>35.360, 00</td>
+<td nowrap align='right'>22.413.557</td>
+<td nowrap align='right'>29.363.525, 84</td>
+<td nowrap align='right'>542.002</td>
+<td nowrap align='right'>974.940, 63</td>
+<td nowrap align='right'>22.965.859</td>
+<td nowrap align='right'>30.373.826, 47</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>08/2008</td>
+<td nowrap align='right'>9.050</td>
+<td nowrap align='right'>17.550, 00</td>
+<td nowrap align='right'>23.381.487</td>
+<td nowrap align='right'>28.907.505, 79</td>
+<td nowrap align='right'>892.831</td>
+<td nowrap align='right'>1.579.697, 97</td>
+<td nowrap align='right'>24.283.368</td>
+<td nowrap align='right'>30.504.753, 76</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>09/2008</td>
+<td nowrap align='right'>150</td>
+<td nowrap align='right'>270, 00</td>
+<td nowrap align='right'>23.233.410</td>
+<td nowrap align='right'>27.042.920, 32</td>
+<td nowrap align='right'>501.059</td>
+<td nowrap align='right'>846.903, 75</td>
+<td nowrap align='right'>23.734.619</td>
+<td nowrap align='right'>27.890.094, 07</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>10/2008</td>
+<td nowrap align='right'>52.500</td>
+<td nowrap align='right'>186.506, 25</td>
+<td nowrap align='right'>22.892.270</td>
+<td nowrap align='right'>27.042.920, 32</td>
+<td nowrap align='right'>620.899</td>
+<td nowrap align='right'>1.036.535, 59</td>
+<td nowrap align='right'>23.565.669</td>
+<td nowrap align='right'>28.265.962, 16</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>11/2008</td>
+<td nowrap align='right'>0</td>
+<td nowrap align='right'>0, 00</td>
+<td nowrap align='right'>21.588.444</td>
+<td nowrap align='right'>27.142.027, 16</td>
+<td nowrap align='right'>747.350</td>
+<td nowrap align='right'>1.130.182, 74</td>
+<td nowrap align='right'>22.335.794</td>
+<td nowrap align='right'>28.272.209, 90</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>12/2008</td>
+<td nowrap align='right'>0</td>
+<td nowrap align='right'>0, 00</td>
+<td nowrap align='right'>22.860.711</td>
+<td nowrap align='right'>33.759.391, 02</td>
+<td nowrap align='right'>494.376</td>
+<td nowrap align='right'>928.688, 05</td>
+<td nowrap align='right'>23.355.087</td>
+<td nowrap align='right'>34.688.079, 07</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>01/2009</td>
+<td nowrap align='right'>12.860</td>
+<td nowrap align='right'>44.890, 00</td>
+<td nowrap align='right'>20.362.195</td>
+<td nowrap align='right'>27.246.261, 52</td>
+<td nowrap align='right'>361.899</td>
+<td nowrap align='right'>557.387, 30</td>
+<td nowrap align='right'>20.736.954</td>
+<td nowrap align='right'>27.848.538, 82</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>02/2009</td>
+<td nowrap align='right'>15.800</td>
+<td nowrap align='right'>37.084, 55</td>
+<td nowrap align='right'>18.670.026</td>
+<td nowrap align='right'>25.119.069, 02</td>
+<td nowrap align='right'>785.649</td>
+<td nowrap align='right'>1.023.421, 19</td>
+<td nowrap align='right'>19.471.475</td>
+<td nowrap align='right'>26.179.574, 76</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>03/2009</td>
+<td nowrap align='right'>10.065</td>
+<td nowrap align='right'>23.097, 50</td>
+<td nowrap align='right'>21.603.710</td>
+<td nowrap align='right'>29.108.415, 55</td>
+<td nowrap align='right'>740.265</td>
+<td nowrap align='right'>963.439, 55</td>
+<td nowrap align='right'>22.354.040</td>
+<td nowrap align='right'>30.094.952, 60</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>04/2009</td>
+<td nowrap align='right'>19.150</td>
+<td nowrap align='right'>44.971, 82</td>
+<td nowrap align='right'>21.309.349</td>
+<td nowrap align='right'>29.949.256, 63</td>
+<td nowrap align='right'>545.438</td>
+<td nowrap align='right'>688.010, 49</td>
+<td nowrap align='right'>21.873.937</td>
+<td nowrap align='right'>30.682.238, 94</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>05/2009</td>
+<td nowrap align='right'>10.500</td>
+<td nowrap align='right'>23.100, 00</td>
+<td nowrap align='right'>20.916.382</td>
+<td nowrap align='right'>30.689.151, 44</td>
+<td nowrap align='right'>968.937</td>
+<td nowrap align='right'>1.195.948, 25</td>
+<td nowrap align='right'>21.895.819</td>
+<td nowrap align='right'>31.908.199, 69</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>06/2009</td>
+<td nowrap align='right'>66.650</td>
+<td nowrap align='right'>78.768, 18</td>
+<td nowrap align='right'>20.676.666</td>
+<td nowrap align='right'>31.846.069, 92</td>
+<td nowrap align='right'>852.873</td>
+<td nowrap align='right'>1.164.436, 00</td>
+<td nowrap align='right'>21.596.189</td>
+<td nowrap align='right'>33.089.274, 10</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>07/2009</td>
+<td nowrap align='right'>8.000</td>
+<td nowrap align='right'>1.600, 00</td>
+<td nowrap align='right'>21.447.267</td>
+<td nowrap align='right'>29.898.500, 17</td>
+<td nowrap align='right'>1.704.583</td>
+<td nowrap align='right'>2.175.277, 12</td>
+<td nowrap align='right'>23.159.850</td>
+<td nowrap align='right'>32.075.377, 29</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>08/2009</td>
+<td nowrap align='right'>0</td>
+<td nowrap align='right'>0, 00</td>
+<td nowrap align='right'>23.037.230</td>
+<td nowrap align='right'>31.339.297, 24</td>
+<td nowrap align='right'>414.973</td>
+<td nowrap align='right'>536.499, 91</td>
+<td nowrap align='right'>23.452.203</td>
+<td nowrap align='right'>31.875.797, 15</td>
+</tr></tbody>
+</table>
+<table id="tblFooter" width="100%" style="page-break-after: always; width:100%; color:#FFFFFF; border:1px solid #000000; font-family:Verdana; font-size:8px; border-collapse:collapse;" >
+	<tbody>
+	<tr>
+		<td align="center" style="background-color:#FFFFFF; color:#000000; font-size:8px;">
+			<span>
+			<table width="100%" border="0" style="text-align: center; font-size:8px;">
+			<tr>
+				<td width="30%"><div alig="center"><strong>&nbsp;</strong></div></td>
+				<td width="30%"><div alig="center"><strong>Conab&nbsp;</strong></div></td>
+				<td width="30%"><div alig="center"><strong>&nbsp;</strong></div></td>
+				<td width="10%"><div alig="right"><strong>Página:1/2</strong></div></td>
+				</tr>
+			</table>
+			</span>
+		</td>
+	</tr>
+	</tbody>
+</table>
+<div style="font-weight:bold; text-align:center; font-size: 8px;">
+   <p align="center"></p>
+</div><table width="100%" id="Header" cellpadding="1" cellspacing="2" rules="all" border="1" style="width:100%; text-align:center; color:#FFFFFF; border:0px solid #000000; font-family:Verdana; font-size:9pt; border-collapse:collapse;" >
+    <tbody>
+    <tr>
+        <td align="center" style="background-color:#FFFFFF; color:#000000; font-size:9px;">
+            <span>
+            <table width="100%" border="0px" style="text-align : center; font-size:9px;">
+                <tr>
+                    <td width="15%" rowspan="3">
+                        <div align="center">
+                            <img src="http://www3.ceasa.gov.br/siscomweb//common/images/Conab.jpg" alt="" style="border-width:0px;" />
+                        </div>
+                    </td>
+                    <td width="75%" align="center">
+                        <span><strong><span style="font-size:12px;">COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB</span></strong></span>
+                    </td>
+                    <td width="10%" rowspan="3">
+                        <span><strong>18/10/2021<br>15:28:40</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <span><strong>DIRAB - Diretoria de Operações e Abastecimento</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        <span><strong>SUPAB - Superintendência de Abastecimento Social <br />GEHOR - Gerência de Modernização do Mercado de Hortigranjeiros</strong></span>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3" align="center">
+                        <div align="center">
+                            <span><strong><br>Relatório de Comercialização Mensal nos Entrepostos Brasileiros <br><br><br>Data de emissão do Relatório: 18/10/2021</strong></span>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            </span>
+        </td>
+    </tr>
+    </tbody>
+</table>	<table	id="tblBody" width="100%" cellpadding="2" cellspacing="2" rules="all" style="width:100%; font-size:9px; border-bottom-color:#000000; border-bottom-style:solid; border-bottom-width:1px; border-collapse:collapse; border-left-color:#000000; border-left-style:solid; border-left-width:1px; border-right-color:#000000;border-right-style:solid; border-right-width:1px; border-top-color:#000000; border-top-style:solid;border-top-width:1px;" border="1" >
+	<thead>
+		<tr align="center" style="background-color:#FFFFFF; font-size:10px;">
+		<th>UNIDADE</th>
+<th>CIDADE</th>
+<th>UF</th>
+<th>Mês/Ano</th>
+<th>Qtde Cereais (kg)</th>
+<th>Valor Cereais (R$)</th>
+<th>Qtde Hortigranjeiros (kg)</th>
+<th>Valor Hortigranjeiros (R$)</th>
+<th>Qtde Produtos Diversos (kg)</th>
+<th>Valor Produtos Diversos (R$)</th>
+<th>Soma (kg)</th>
+<th>Soma (R$)</th>
+
+		</tr>
+	</thead><tbody><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>09/2009</td>
+<td nowrap align='right'>0</td>
+<td nowrap align='right'>0, 00</td>
+<td nowrap align='right'>21.943.489</td>
+<td nowrap align='right'>30.443.305, 70</td>
+<td nowrap align='right'>702.127</td>
+<td nowrap align='right'>1.672.111, 17</td>
+<td nowrap align='right'>22.645.616</td>
+<td nowrap align='right'>32.115.416, 87</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>10/2009</td>
+<td nowrap align='right'>28.750</td>
+<td nowrap align='right'>52.425, 00</td>
+<td nowrap align='right'>20.894.669</td>
+<td nowrap align='right'>30.283.919, 86</td>
+<td nowrap align='right'>949.936</td>
+<td nowrap align='right'>1.224.756, 65</td>
+<td nowrap align='right'>21.873.355</td>
+<td nowrap align='right'>31.561.101, 51</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>11/2009</td>
+<td nowrap align='right'>1.200</td>
+<td nowrap align='right'>2.006, 80</td>
+<td nowrap align='right'>21.562.576</td>
+<td nowrap align='right'>31.580.248, 36</td>
+<td nowrap align='right'>837.633</td>
+<td nowrap align='right'>1.187.786, 86</td>
+<td nowrap align='right'>22.401.409</td>
+<td nowrap align='right'>32.770.042, 02</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>12/2009</td>
+<td nowrap align='right'>15.000</td>
+<td nowrap align='right'>22.500, 00</td>
+<td nowrap align='right'>20.741.360</td>
+<td nowrap align='right'>32.678.620, 69</td>
+<td nowrap align='right'>461.224</td>
+<td nowrap align='right'>885.064, 57</td>
+<td nowrap align='right'>21.217.584</td>
+<td nowrap align='right'>33.586.185, 26</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>01/2010</td>
+<td nowrap align='right'>40.740</td>
+<td nowrap align='right'>115.294, 20</td>
+<td nowrap align='right'>19.910.908</td>
+<td nowrap align='right'>30.618.106, 55</td>
+<td nowrap align='right'>863.922</td>
+<td nowrap align='right'>1.124.120, 23</td>
+<td nowrap align='right'>20.815.570</td>
+<td nowrap align='right'>31.857.520, 98</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>02/2010</td>
+<td nowrap align='right'>13.500</td>
+<td nowrap align='right'>20.250, 00</td>
+<td nowrap align='right'>19.060.875</td>
+<td nowrap align='right'>28.657.640, 01</td>
+<td nowrap align='right'>489.244</td>
+<td nowrap align='right'>670.842, 71</td>
+<td nowrap align='right'>19.563.619</td>
+<td nowrap align='right'>29.348.732, 72</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>03/2010</td>
+<td nowrap align='right'>13.500</td>
+<td nowrap align='right'>35.505, 00</td>
+<td nowrap align='right'>23.760.015</td>
+<td nowrap align='right'>39.849.200, 83</td>
+<td nowrap align='right'>341.264</td>
+<td nowrap align='right'>527.356, 57</td>
+<td nowrap align='right'>24.114.779</td>
+<td nowrap align='right'>40.412.062, 40</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>04/2010</td>
+<td nowrap align='right'>13.800</td>
+<td nowrap align='right'>48.300, 00</td>
+<td nowrap align='right'>20.652.506</td>
+<td nowrap align='right'>35.780.957, 43</td>
+<td nowrap align='right'>564.880</td>
+<td nowrap align='right'>721.311, 85</td>
+<td nowrap align='right'>21.231.186</td>
+<td nowrap align='right'>36.550.569, 28</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>05/2010</td>
+<td nowrap align='right'>15.000</td>
+<td nowrap align='right'>43.725, 00</td>
+<td nowrap align='right'>24.022.825</td>
+<td nowrap align='right'>40.314.954, 79</td>
+<td nowrap align='right'>834.248</td>
+<td nowrap align='right'>1.107.284, 74</td>
+<td nowrap align='right'>24.872.073</td>
+<td nowrap align='right'>41.465.964, 53</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>06/2010</td>
+<td nowrap align='right'>39.000</td>
+<td nowrap align='right'>101.535, 00</td>
+<td nowrap align='right'>19.352.804</td>
+<td nowrap align='right'>33.767.363, 00</td>
+<td nowrap align='right'>861.486</td>
+<td nowrap align='right'>1.041.919, 00</td>
+<td nowrap align='right'>20.253.290</td>
+<td nowrap align='right'>34.910.817, 00</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>07/2010</td>
+<td nowrap align='right'>19.500</td>
+<td nowrap align='right'>49.530, 00</td>
+<td nowrap align='right'>22.294.411</td>
+<td nowrap align='right'>31.191.589, 00</td>
+<td nowrap align='right'>511.454</td>
+<td nowrap align='right'>600.263, 00</td>
+<td nowrap align='right'>22.825.365</td>
+<td nowrap align='right'>31.841.382, 00</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>08/2010</td>
+<td nowrap align='right'>77.550</td>
+<td nowrap align='right'>182.045, 00</td>
+<td nowrap align='right'>24.064.845</td>
+<td nowrap align='right'>30.321.119, 00</td>
+<td nowrap align='right'>917.005</td>
+<td nowrap align='right'>1.276.851, 00</td>
+<td nowrap align='right'>25.059.400</td>
+<td nowrap align='right'>31.780.015, 00</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>09/2010</td>
+<td nowrap align='right'>7.933</td>
+<td nowrap align='right'>18.658, 00</td>
+<td nowrap align='right'>23.267.381</td>
+<td nowrap align='right'>28.748.268, 00</td>
+<td nowrap align='right'>723.431</td>
+<td nowrap align='right'>1.117.040, 00</td>
+<td nowrap align='right'>23.998.745</td>
+<td nowrap align='right'>29.883.966, 00</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>10/2010</td>
+<td nowrap align='right'>30.000</td>
+<td nowrap align='right'>92.800, 00</td>
+<td nowrap align='right'>22.679.952</td>
+<td nowrap align='right'>29.198.841, 00</td>
+<td nowrap align='right'>813.580</td>
+<td nowrap align='right'>1.226.179, 00</td>
+<td nowrap align='right'>23.523.532</td>
+<td nowrap align='right'>30.517.820, 00</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>11/2010</td>
+<td nowrap align='right'>13.750</td>
+<td nowrap align='right'>45.375, 00</td>
+<td nowrap align='right'>23.124.076</td>
+<td nowrap align='right'>29.510.858, 00</td>
+<td nowrap align='right'>997.668</td>
+<td nowrap align='right'>1.531.731, 00</td>
+<td nowrap align='right'>24.135.494</td>
+<td nowrap align='right'>31.087.964, 00</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'>12/2010</td>
+<td nowrap align='right'>62.540</td>
+<td nowrap align='right'>161.750, 00</td>
+<td nowrap align='right'>24.957.890</td>
+<td nowrap align='right'>33.261.015, 00</td>
+<td nowrap align='right'>739.345</td>
+<td nowrap align='right'>1.804.144, 00</td>
+<td nowrap align='right'>25.759.775</td>
+<td nowrap align='right'>35.226.909, 00</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'><i><b>Sub-Total</b></i></td>
+<td nowrap align='right'>665.638</td>
+<td nowrap align='right'>1.632.570, 49</td>
+<td nowrap align='right'>790.260.272</td>
+<td nowrap align='right'>1.092.387.321, 27</td>
+<td nowrap align='right'>25.873.392</td>
+<td nowrap align='right'>38.700.306, 51</td>
+<td nowrap align='right'>816.799.302</td>
+<td nowrap align='right'>1.132.720.198, 27</td>
+</tr><tr style='background-color:#DEDEDE;'>
+<td nowrap align='left'>&nbsp;</td>
+<td  align='left'>&nbsp;</td>
+<td nowrap align='left'>&nbsp;</td>
+<td nowrap align='left'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+<td nowrap align='right'>&nbsp;</td>
+</tr><tr style='background-color:#FFFFFF;'>
+<td nowrap align='left'></td>
+<td  align='left'></td>
+<td nowrap align='left'></td>
+<td nowrap align='left'><i><b>TOTAL</b></i></td>
+<td nowrap align='right'>665.638</td>
+<td nowrap align='right'>1.632.570, 49</td>
+<td nowrap align='right'>790.260.272</td>
+<td nowrap align='right'>1.092.387.321, 27</td>
+<td nowrap align='right'>25.873.392</td>
+<td nowrap align='right'>38.700.306, 51</td>
+<td nowrap align='right'>816.799.302</td>
+<td nowrap align='right'>1.132.720.198, 27</td>
+</tr></tbody>
+</table>
+<table id="tblFooter" width="100%" style="page-break-after: always; width:100%; color:#FFFFFF; border:1px solid #000000; font-family:Verdana; font-size:8px; border-collapse:collapse;" >
+	<tbody>
+	<tr>
+		<td align="center" style="background-color:#FFFFFF; color:#000000; font-size:8px;">
+			<span>
+			<table width="100%" border="0" style="text-align: center; font-size:8px;">
+			<tr>
+				<td width="30%"><div alig="center"><strong>&nbsp;</strong></div></td>
+				<td width="30%"><div alig="center"><strong>Conab&nbsp;</strong></div></td>
+				<td width="30%"><div alig="center"><strong>&nbsp;</strong></div></td>
+				<td width="10%"><div alig="right"><strong>Página:2/2</strong></div></td>
+				</tr>
+			</table>
+			</span>
+		</td>
+	</tr>
+	</tbody>
+</table>
+<div style="font-weight:bold; text-align:center; font-size: 8px;">
+   <p align="center"></p>
+</div></body>
+</html><?xml version="1.0" encoding="ISO-8859-1"?>
+<html>
+<head>
+<title>SISCOM - Sistema de InformaÃ§&otilde;es Setoriais de Comercializa&ccedil;&atilde;o</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www3.ceasa.gov.br/siscomweb/common/themes/internet/css/estiloGeral.css"></link>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www3.ceasa.gov.br/siscomweb/common/themes/internet/css/estiloEspecifico.css"></link>
+</head>
+
+<form id="ctl0_unqFORM" method="post" action="/siscomweb/?page=reports.relatorio_uf_unidade&amp;retTO=consulta_relatorio_uf_unidade"><div style="visibility:hidden;">
+<input type="hidden" name="PRADO_PAGESTATE" id="PRADO_PAGESTATE" value="eJyVj8sOgjAQRf+lX9CWCmXcqSGaSCS6cVtq1QZoea4I/26rUXTpbCZz7p3XVUYSk4jGIWG5UDjHRPKYY6qUS/GCSaF4yIgAAqMGvBRAYeyAAZJ9iZGrA19zQJXQZqvExTMM49RBBGgwTXI4pp4R74sB5aWVRerMH7hww2xbWw+YByRwtt7sqrrVlco2yTzzVzrvT18S/pZmzp84UfIu3tDF65nnfuoOWFvTt7bsjqoZdKvNLbNdvxKymFv+75gegwxwgQ==" />
+</div>
+
+<div id="ctl0_blockMain">	
+	
+    <script language="JavaScript" type="text/javascript">
+        function Imprimir()
+        {
+            document.getElementById('imprimir').style.visibility = 'hidden';
+            window.print();
+        }
+    </script>
+    <div id="imprimir">
+    <hr>
+    <table>
+        <tr>
+            <td style="width:30px; text-align:left;">
+                <input type="submit" name="ctl0$corpo$btnImprimePDF" value="Gerar PDF" id="ctl0_corpo_btnImprimePDF" class="botao" />
+            </td>
+            <td style="width:30px; text-align:left;">
+                <input type="submit" name="ctl0$corpo$btnImprimeXLS" value="Gerar Planilha" id="ctl0_corpo_btnImprimeXLS" class="botao" />
+            </td>
+            <td style="width:30px; text-align:left;">
+                <input type="submit" name="ctl0$corpo$btnImprime" value="Imprimir" id="ctl0_corpo_btnImprime" class="botao" onclick="Imprimir();" />
+            </td>
+            <td style="width:30px; text-align:left;">
+                <input type="submit" name="ctl0$corpo$btnFecha" value="Fechar" id="ctl0_corpo_btnFecha" class="botao" />
+            </td>
+        </tr>
+    </table>
+    </div>
+
+</div>
+</form>
+</body>
+</html>

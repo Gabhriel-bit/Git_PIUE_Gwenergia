@@ -1,0 +1,464 @@
+[*] Ocorrido: 12/10/2021 20:09:38
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchWindowException'>
+> Arguemntos: ('no such window\n  (Session info: chrome=94.0.4606.71)', None, None)
+> <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001B69A0E8888>
+
+[*] Ocorrido: 12/10/2021 20:10:42
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchWindowException'>
+> Arguemntos: ('no such window\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002151325E248>
+
+[*] Ocorrido: 12/10/2021 20:11:18
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchWindowException'>
+> Arguemntos:   ('no such window\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000016CD074F148>
+
+[*] Ocorrido: 12/10/2021 20:11:40
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x00000214970D7608>
+
+[*] Ocorrido: 12/10/2021 20:12:11
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001F9AA0773C8>
+
+[*] Ocorrido: 12/10/2021 20:13:01
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001CBDB78C688>
+
+[*] Ocorrido: 12/10/2021 20:13:17
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000024DBB5BE288>
+
+[*] Ocorrido: 12/10/2021 20:16:09
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001BB869A8508>
+
+[*] Ocorrido: 12/10/2021 20:16:27
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchWindowException'>
+> Arguemntos:   ('no such window\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002B8132AEF48>
+
+[*] Ocorrido: 12/10/2021 20:26:06
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('object.__new__(): not enough arguments',)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001E5DDEE6D88>
+
+[*] Ocorrido: 12/10/2021 20:26:20
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('object.__new__(X): X is not a type object (str)',)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002B402978AC8>
+
+[*] Ocorrido: 12/10/2021 20:27:58
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidElementStateException'>
+> Arguemntos:   ('invalid element state\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000014D3C69E248>
+
+[*] Ocorrido: 12/10/2021 20:28:41
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001F346E41C88>
+
+[*] Ocorrido: 12/10/2021 20:29:19
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002644DBE89C8>
+
+[*] Ocorrido: 12/10/2021 20:29:42
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000026002EB8688>
+
+[*] Ocorrido: 12/10/2021 20:32:17
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000024D1B5DC388>
+
+[*] Ocorrido: 12/10/2021 20:33:07
+> Tipo de erro: <class 'IndexError'>
+> Arguemntos:   ('list index out of range',)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000023EEF3797C8>
+
+[*] Ocorrido: 12/10/2021 20:33:34
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001D8CDCCE288>
+
+[*] Ocorrido: 12/10/2021 20:35:54
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001DC61F56388>
+
+[*] Ocorrido: 12/10/2021 20:42:53
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000025115318688>
+
+[*] Ocorrido: 12/10/2021 20:44:07
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001C8BF997488>
+
+[*] Ocorrido: 12/10/2021 20:47:37
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001F566022F08>
+
+[*] Ocorrido: 12/10/2021 20:54:12
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: headless chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000016EBDBE9948>
+
+[*] Ocorrido: 12/10/2021 20:54:30
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: headless chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001DFCA1BEEC8>
+
+[*] Ocorrido: 12/10/2021 20:55:56
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000025935A33808>
+
+[*] Ocorrido: 12/10/2021 21:00:47
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001E4F9A48488>
+
+[*] Ocorrido: 12/10/2021 21:01:20
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchWindowException'>
+> Arguemntos:   ('no such window\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001D60F036C48>
+
+[*] Ocorrido: 12/10/2021 21:02:35
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"link text","selector":"http://www3.ceasa.gov.br/siscomweb/?page=reports.relatorio_uf_unidade&retTO=consulta_relatorio_uf_unidade"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x00000221C3AB8608>
+
+[*] Ocorrido: 12/10/2021 21:03:38
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ("'WebElement' object is not callable",)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000020C8B8A6348>
+
+[*] Ocorrido: 12/10/2021 21:25:53
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ("'WebElement' object is not callable",)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001FC01916C88>
+
+[*] Ocorrido: 12/10/2021 21:26:32
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ("'WebElement' object is not callable",)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001B7CE33D7C8>
+
+[*] Ocorrido: 12/10/2021 21:50:55
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x00000221E7F4CF88>
+
+[*] Ocorrido: 12/10/2021 21:53:11
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000022BEAA1EA08>
+
+[*] Ocorrido: 12/10/2021 21:59:28
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000018CF7BE6DC8>
+
+[*] Ocorrido: 12/10/2021 22:01:37
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001B351B13E08>
+
+[*] Ocorrido: 12/10/2021 22:02:07
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002721556DDC8>
+
+[*] Ocorrido: 12/10/2021 22:06:00
+> Tipo de erro: <class 'AttributeError'>
+> Arguemntos:   ("'list' object has no attribute 'sendKeys'",)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001F5E9FC3088>
+
+[*] Ocorrido: 12/10/2021 22:06:24
+> Tipo de erro: <class 'AttributeError'>
+> Arguemntos:   ("'list' object has no attribute 'sendKeys'",)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000016E87768A08>
+
+[*] Ocorrido: 12/10/2021 22:11:50
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001D6E7128CC8>
+
+[*] Ocorrido: 12/10/2021 22:24:34
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidArgumentException'>
+> Arguemntos:   ("invalid argument: 'handle' must be a string\n  (Session info: chrome=94.0.4606.71)", None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001A6F8AC6E08>
+
+[*] Ocorrido: 12/10/2021 22:36:20
+> Tipo de erro: <class 'selenium.common.exceptions.NoSuchElementException'>
+> Arguemntos:   ('no such element: Unable to locate element: {"method":"css selector","selector":"[id="ctl0_corpo_btnImprimeXLS"]"}\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002B21203F188>
+
+Email enviado com sucesso!
+> Data de envio: 13/10/2021 21:29:08
+
+Email enviado com sucesso!
+> Data de envio: 13/10/2021 21:29:52
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 21:58:31
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 22:00:20
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 22:01:39
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 22:06:56
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:16:28
+
+[*] Ocorrido: 13/10/2021 23:16:31
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:16:35
+
+[*] Ocorrido: 13/10/2021 23:16:38
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:16:42
+
+[*] Ocorrido: 13/10/2021 23:16:45
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:16:49
+
+[*] Ocorrido: 13/10/2021 23:16:51
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:17:01
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:19:31
+
+[*] Ocorrido: 13/10/2021 23:19:34
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:19:38
+
+[*] Ocorrido: 13/10/2021 23:19:41
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:19:48
+
+[*] Ocorrido: 13/10/2021 23:19:50
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:19:54
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:20:11
+
+[*] Ocorrido: 13/10/2021 23:20:14
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:23:14
+
+[*] Ocorrido: 13/10/2021 23:24:21
+> Tipo de erro: <class 'selenium.common.exceptions.InvalidSessionIdException'>
+> Arguemntos:   ('invalid session id', None, None)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:25:34
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:27:02
+
+[*] Ocorrido: 13/10/2021 23:27:30
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('count() takes exactly one argument (0 given)',)
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:27:42
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:28:10
+
+[*] Ocorrido: 13/10/2021 23:28:07
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000024CE3451688>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:28:16
+
+[*] Ocorrido: 13/10/2021 23:28:13
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000024CE5258F08>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:28:22
+
+[*] Ocorrido: 13/10/2021 23:28:20
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000024CE528B808>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:28:49
+
+[*] Ocorrido: 13/10/2021 23:28:45
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002313128F948>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:29:24
+
+[*] Ocorrido: 13/10/2021 23:29:20
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002313132A508>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:29:42
+
+[*] Ocorrido: 13/10/2021 23:29:38
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002313133AC88>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:30:14
+
+[*] Ocorrido: 13/10/2021 23:30:10
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.71)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002313133EE48>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:51:03
+
+[*] Ocorrido: 13/10/2021 23:50:59
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.81)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002D016853F08>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:51:21
+
+[*] Ocorrido: 13/10/2021 23:51:17
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.81)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002D01685D2C8>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:51:41
+
+[*] Ocorrido: 13/10/2021 23:51:37
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.81)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000002D0168E4BC8>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:52:00
+
+<p>Houve uma falha ao acessar o site</p>
+<p>A data de atualização foi adiada em 1 dia</p>
+<p>Data para a próxima tentativa 13/10/2021 23:52:36</p>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:56:34
+
+[*] Ocorrido: 13/10/2021 23:56:32
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.81)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x000001B59ABA81C8>
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:56:40
+
+[*] Email enviado com sucesso!
+> Data de envio: 13/10/2021 23:58:34
+
+[*] Email enviado com sucesso!
+> Data de envio: 14/10/2021 00:01:47
+
+[*] Ocorrido: 14/10/2021 00:01:44
+> Tipo de erro: <class 'selenium.common.exceptions.WebDriverException'>
+> Arguemntos:   ('unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=94.0.4606.81)', None, None)
+> Chrome error: <selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x0000017E8CE3A7C8>
+
+[*] Email enviado com sucesso!
+> Data de envio: 14/10/2021 00:01:53
+
+[*] Email enviado com sucesso!
+> Data de envio: 14/10/2021 00:03:13
+
+[*] Email enviado com sucesso!
+> Data de envio: 14/10/2021 11:15:32
+
+[*] Ocorrido: 14/10/2021 11:16:34
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:36
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:39
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:41
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:44
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:46
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:49
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Ocorrido: 14/10/2021 11:16:51
+> Tipo de erro: <class 'TypeError'>
+> Arguemntos:   ('Object of type set is not JSON serializable',)
+
+[*] Email enviado com sucesso!
+> Data de envio: 14/10/2021 11:44:57
+
+[*] Email enviado com sucesso!
+> Data de envio: 16/10/2021 11:33:54
+
+[*] Email enviado com sucesso!
+> Data de envio: 16/10/2021 11:34:22
+
