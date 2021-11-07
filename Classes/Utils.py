@@ -19,6 +19,15 @@ class file_utils(object):
         log.close()
 
     @staticmethod
+    def lista_to_str(lista,separador=';'):
+        string = ""
+        if type(lista) == list:
+            for item in lista:
+                string += str(item) + separador
+            return string[:-1]
+        return string
+
+    @staticmethod
     def enviar_email(p_msg, p_assunto, email_from = "minhacontatestegw@gmail.com",
                      password = 'SenhaSecreta@23', email_to = "minhacontatestegw@gmail.com"):
         msg = email.message.Message()

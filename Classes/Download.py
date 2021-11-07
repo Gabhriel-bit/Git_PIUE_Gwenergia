@@ -48,6 +48,7 @@ def download(time_pop_up):
     prefs = { "download.default_directory": caminho}
     #options.add_argument("--headless") #As janelas ficam invisiveis
     options.add_experimental_option("prefs", prefs)
+    options.add_argument("user-data-dir=C:\\Path")
     driver = webdriver.Chrome('C:\Program Files\Google\Chrome\Application\chrome.exe', options=options)
     data_bu = datetime.datetime.now().strftime('%d_%m_%Y')
     main_window = driver.window_handles
