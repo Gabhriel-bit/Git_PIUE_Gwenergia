@@ -216,8 +216,10 @@ AC_nome = "ACRE-18_10_2021.xls"
 htmlAC = pd.read_html(AC_nome, match='UNIDADE')
 SP_nome = 'SÃO PAULO-18_10_2021.xls'
 htmlSP = pd.read_html(SP_nome, match='UNIDADE')
-#print((cria_CSV(htmlSP, SP_nome))
-print(cria_CSV_mult_tabelas([htmlAC, htmlSP], [AC_nome, SP_nome]))
+
+__set_HTMLs__([htmlAC, htmlSP])
+__set_nomes_HTMLs__([AC_nome, SP_nome])
+print(execurta_format())
 
 #h = type(htmlSP).__new__(type(htmlSP))
 #h = htmlSP.copy()
